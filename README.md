@@ -1,5 +1,5 @@
 # Movie_Bucket_List
-*Movie Bucket List is a Python application integrated with SQLite to store favourite movies from user and display the list of stored movies when required.*
+  *Movie Bucket List is a Python application integrated with SQLite to store favourite movies from user and display the list of stored movies when required.*
 ---
 1. tkinter- *The tkinter package (“Tk interface”) is the standard Python interface to the Tk GUI toolkit.*
 ```
