@@ -10,3 +10,5 @@ pip install tk
 ### Output
 ---
 ![Output](https://github.com/Ganeshkumar1508/Movie_Bucket_List/blob/main/ScreenShots/1.JPG)
+![Output](https://github.com/Ganeshkumar1508/Movie_Bucket_List/blob/main/ScreenShots/2.JPG)
+![Output](https://github.com/Ganeshkumar1508/Movie_Bucket_List/blob/main/ScreenShots/3.JPG)
