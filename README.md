@@ -9,4 +9,4 @@ pip install tk
 ---
 ### Output
 ---
-![Output](https://github.com/Ganeshkumar1508/Movie_Bucket_List/blob/master/ScreenShots/1.JPG)
+![Output](https://github.com/Ganeshkumar1508/Movie_Bucket_List/blob/main/ScreenShots/1.JPG)
